@@ -1,6 +1,6 @@
 Esta aplicação funciona à base de React Native.
 
-O propósito dessa aplicação é fazer o cálculo de frete coletando a posição atual do usuário, tomando o ponto inicial (de onde saíra a entrega) como sendo o Marco Zero do Recife.
+O propósito dessa aplicação é fazer o cálculo de frete coletando a posição atual do usuário, tomando o ponto inicial (de onde sairá a entrega) como sendo o Marco Zero do Recife.
 
 À partir disso, o frete é calculado com acréscimo no valor de R$ 10,00 a cada 05 KM de distância do Marco Zero para o usuário do programa.
 
